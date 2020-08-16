@@ -1,0 +1,2 @@
+model_checkpoint_path: "cnn_32_200E"
+all_model_checkpoint_paths: "cnn_32_200E"
